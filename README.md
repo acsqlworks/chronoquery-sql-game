@@ -8,8 +8,6 @@
 
 An educational SQL game where you investigate temporal anomalies by writing database queries. Play as a Time Bureau agent solving increasingly complex puzzles to detect paradoxes and repair the timeline.
 
-![Game Concept](https://via.placeholder.com/800x400/1a1a2e/16c79a?text=ChronoQuery+-+SQL+Time+Detective+Game)
-
 ## 🎮 Game Concept
 
 You're a temporal detective working for the Time Bureau. Reality itself is stored in a vast database, and temporal rifts manifest as **data inconsistencies**. Use your SQL skills to:
