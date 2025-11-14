@@ -51,8 +51,8 @@ You're a temporal detective working for the Time Bureau. Reality itself is store
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/chronoquery.git
-cd chronoquery
+git clone https://github.com/acsqlworks/chronoquery-sql-game.git
+cd chronoquery-sql-game
 ```
 
 2. **Run the setup script**
